@@ -1,5 +1,5 @@
 # Hey 👋
-My name is Arthur Fortunato, I'm from Brazil, that has been stutudyng as a Full Stack  developer since 2019.
+My name is Arthur Fortunato, I have been studying to be a Full Stack programmer.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face challenges.
 
