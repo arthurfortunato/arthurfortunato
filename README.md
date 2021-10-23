@@ -1,7 +1,11 @@
-# Hey 👋
-My name is Arthur Fortunato, I have been studying to be a Full Stack programmer.
+<img src="https://nitter.saty.re/pic/media%2FE9eNlgnXoAoy387.jpg%3Fname%3Dorig" align="left" width="300px" style="margin-right: 10px" style="margin-bottom: 40px"/>
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face challenges.
+# Vida longa e próspera! 🖖
+
+Sou formado em Ciências Econômicas e Contabilidade. Atualmente estudo programação para desenvolvimento FullStack.
+<p align="left">
+  💻 principais Habilidades: <strong>HTML, CSS, JavaScript, NodeJS, ReactJS, Express, Vue, Styled-Components </strong>
+</p>
 
 Reach me out   :point_down: 
 
