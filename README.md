@@ -9,5 +9,5 @@ Sou formado em Ciências Econômicas e Contabilidade. Atualmente estudo programa
 
 Reach me out   :point_down: 
 
-  <a href="https://www.linkedin.com/in/arthur-forturnato-643828187//"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arthur-forturnato-643828187/" height="20" width="20" target="_blank"/></a>
-     <a href="https://www.instagram.com/luizarthur.fortunato/"  ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="luizarthur.fortunato/Instagram" height="20" width="20" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/arthur-forturnato-643828187//"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arthur-forturnato-643828187/" height="20" width="20"/></a>
+     <a href="https://www.instagram.com/luizarthur.fortunato/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="luizarthur.fortunato/Instagram" height="20" width="20" /></a>
