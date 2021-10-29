@@ -31,8 +31,8 @@ Reach me out   :point_down:
      
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfortunato&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<p align="center">
+<img align="center" width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfortunato&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
 <br><br>
