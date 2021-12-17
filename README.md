@@ -6,7 +6,7 @@
 
 Sou formado em Ciências Econômicas e Contabilidade. Atualmente estudo programação para desenvolvimento FullStack.
 <p align="left">
-  💻 principais Habilidades: <strong>HTML, CSS, JavaScript, NodeJS, ReactJS, Express, Vue, Styled-Components </strong>
+  💻 principais Habilidades: <strong>JavaScript/Typescript, ReactJS, NodeJS, Express, HTML, CSS, Styled-Components </strong>
 </p>
 
 Reach me out   :point_down: 
