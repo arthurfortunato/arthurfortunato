@@ -1,6 +1,6 @@
 <img src="https://nitter.saty.re/pic/media%2FE9eNlgnXoAoy387.jpg%3Fname%3Dorig" align="left" width="300px" style="margin-right: 10px" style="margin-bottom: 40px"/>
 
-<h1> Full Stack Developer |</h1>
+<h1> Full Stack Developer </h1>
 
 
 
